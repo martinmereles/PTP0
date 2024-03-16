@@ -1,0 +1,50 @@
+[INFO] 03:26:40:604 CLIENTE/(223182:223182): hola! soy un log
+[INFO] 03:29:00:565 CLIENTE/(223257:223257): hola! soy un log
+[INFO] 03:33:25:732 CLIENTE/(223421:223421): hola! soy un log
+[INFO] 03:35:17:306 CLIENTE/(223503:223503): hola! soy un log
+[INFO] 03:35:17:309 CLIENTE/(223503:223503): La IP es 127.0.0.1
+
+[INFO] 03:37:08:998 CLIENTE/(223597:223597): hola! soy un log
+[INFO] 03:37:09:001 CLIENTE/(223597:223597): La IP es 127.0.0.1 el puerto es 4444 y el valor es (null)
+
+[INFO] 03:38:39:531 CLIENTE/(223751:223751): hola! soy un log
+[INFO] 03:38:39:534 CLIENTE/(223751:223751): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 21:03:11:677 CLIENTE/(231803:231803): hola! soy un log
+[INFO] 21:03:11:684 CLIENTE/(231803:231803): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 21:10:35:837 CLIENTE/(232033:232033): hola! soy un log
+[INFO] 21:10:35:840 CLIENTE/(232033:232033): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 00:56:09:373 CLIENTE/(233181:233181): hola! soy un log
+[INFO] 00:56:09:379 CLIENTE/(233181:233181): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 00:57:32:889 CLIENTE/(233265:233265): hola! soy un log
+[INFO] 00:57:32:895 CLIENTE/(233265:233265): La IP es 127.0.0.1 el puerto es 4444 y el valor es reloko
+
+[INFO] 01:03:48:316 CLIENTE/(233423:233423): hola! soy un log
+[INFO] 01:03:48:322 CLIENTE/(233423:233423): La IP es 127.0.0.1 el puerto es 4444 y el valor es reloko
+
+[INFO] 01:36:05:477 CLIENTE/(233756:233756): hola! soy un log
+[INFO] 01:36:05:483 CLIENTE/(233756:233756): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 01:36:05:488 CLIENTE/(233756:233756): estoy por terminar programa
+[INFO] 01:55:35:687 CLIENTE/(234023:234023): hola! soy un log
+[INFO] 01:55:35:687 CLIENTE/(234023:234023): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 01:55:35:688 CLIENTE/(234023:234023): estoy por terminar programa
+[INFO] 05:11:22:608 CLIENTE/(234148:234148): hola! soy un log
+[INFO] 05:11:22:609 CLIENTE/(234148:234148): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 05:15:05:422 CLIENTE/(234264:234264): hola! soy un log
+[INFO] 05:15:05:423 CLIENTE/(234264:234264): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 05:15:05:424 CLIENTE/(234264:234264): estoy por terminar programa
+[INFO] 05:15:36:940 CLIENTE/(234270:234270): hola! soy un log
+[INFO] 05:15:36:941 CLIENTE/(234270:234270): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 05:15:36:942 CLIENTE/(234270:234270): estoy por terminar programa
+[INFO] 03:08:31:389 CLIENTE/(253026:253026): hola! soy un log
+[INFO] 03:08:31:391 CLIENTE/(253026:253026): La IP es 127.0.0.1 el puerto es 4444 y el valor es clave
+
+[INFO] 03:08:31:406 CLIENTE/(253026:253026): estoy por terminar programa

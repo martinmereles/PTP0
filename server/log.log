@@ -1,0 +1,19 @@
+[INFO] 05:15:01:696 Servidor/(234263:234263): Servidor listo para recibir al cliente
+[INFO] 05:15:05:423 Servidor/(234263:234263): Se conecto un cliente!
+[INFO] 05:15:05:423 Servidor/(234263:234263): Me llego el mensaje clave
+[INFO] 05:15:05:424 Servidor/(234263:234263): Me llego el mensaje estoy viendo si no rompo
+[INFO] 05:15:05:424 Servidor/(234263:234263): Me llego el mensaje E”›Oý
+[ERROR] 05:15:05:684 Servidor/(234263:234263): el cliente se desconecto. Terminando servidor
+[INFO] 05:15:22:102 Servidor/(234266:234266): Servidor listo para recibir al cliente
+[INFO] 05:15:36:941 Servidor/(234266:234266): Se conecto un cliente!
+[INFO] 05:15:36:941 Servidor/(234266:234266): Me llego el mensaje clave
+[INFO] 05:15:36:941 Servidor/(234266:234266): Me llego el mensaje estoy viendo si no rompo
+[INFO] 05:15:36:941 Servidor/(234266:234266): Me llego el mensaje 7„
+cý
+[ERROR] 05:15:37:196 Servidor/(234266:234266): el cliente se desconecto. Terminando servidor
+[INFO] 03:06:53:972 Servidor/(252823:252823): Servidor listo para recibir al cliente
+[INFO] 03:08:31:391 Servidor/(252823:252823): Se conecto un cliente!
+[INFO] 03:08:31:399 Servidor/(252823:252823): Me llego el mensaje clave
+[INFO] 03:08:31:402 Servidor/(252823:252823): Me llego el mensaje estoy viendo si no rompo
+[INFO] 03:08:31:404 Servidor/(252823:252823): Me llego el mensaje E”[lþ
+[ERROR] 03:08:31:799 Servidor/(252823:252823): el cliente se desconecto. Terminando servidor

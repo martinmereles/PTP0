@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE=servidor
+make $FILE
+if test -f "./$FILE"; then
+    ./$FILE
+fi
